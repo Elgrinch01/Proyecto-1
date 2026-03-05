@@ -64,7 +64,7 @@ body{
 /* PARTE SUPERIOR */
 .card-top{
   background:#c6ccd2;
-  height:120px;
+  height:180px;
   display:flex;
   justify-content:center;
   align-items:center;
