@@ -22,7 +22,6 @@ body{
 .sidebar{
   background:#dcdcdc;
   border-radius:12px;
-  height: 200%;
   display:flex;
   justify-content:center;
   align-items:center;
