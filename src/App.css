@@ -48,7 +48,7 @@ body{
 /* SECCION DE CARDS */
 .card-section{
   display:grid;
-  grid-template-columns:repeat(3, 250px);
+  grid-template-columns:repeat(3, 500px);
   justify-content:center;
   gap:400px;
 }
