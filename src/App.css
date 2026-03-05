@@ -20,6 +20,7 @@ body{
 
 /* SIDEBAR */
 .sidebar{
+  width: 220px;
   background:#dcdcdc;
   border-radius:12px;
   display:flex;
