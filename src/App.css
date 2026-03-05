@@ -56,7 +56,7 @@ body{
 /* CARD */
 .card{
   border-radius:10px;
-  height: 20px;
+  overflow:hidden;
   border:1px solid #cfcfcf;
   background:white;
 }
