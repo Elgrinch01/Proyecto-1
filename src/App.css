@@ -21,6 +21,7 @@ body{
 /* SIDEBAR */
 .sidebar{
   background:#dcdcdc;
+  grid-template-columns:500px 1fr;
   border-radius:12px;
   display:flex;
   justify-content:center;
