@@ -50,7 +50,7 @@ body{
   display:grid;
   grid-template-columns:repeat(3, 250px);
   justify-content:center;
-  gap:400px;
+  gap:auto;
 }
 
 /* CARD */
